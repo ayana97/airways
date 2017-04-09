@@ -17,7 +17,7 @@
 <tr>
 <th><b>Meta Description</b></th>
 <td>No</td>
-<td>Meta Description not Found </td>
+<td>Meta Description not Found. </td>
 <td>The meta description length of your page is 0 characters. Most search engines will truncate meta descriptions to 160 characters.</td>
 </tr>
 <tr>
